@@ -1,0 +1,29 @@
+body {
+	margin: 10px;
+}
+
+#form {
+	width: 300px;
+	margin: 200px auto 0 auto;
+}
+.menu {
+	text-decoration: none;
+	list-style-type: none;
+	display: inline-block;
+	padding: 5px; 
+}
+hr {
+	border: 0; 
+	height: 1px; 
+	width: 100%;
+	background: #2184ff; 
+	background-image: linear-gradient(to right, #ccc, #2184ff, #ccc);
+}
+#user_view {
+	float: left;
+}
+#main {
+	margin: 200px auto 0 auto;
+	top: 200px;
+	float: right;
+}
